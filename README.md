@@ -5,7 +5,7 @@
 
 ## ✨ About Me 
 
-Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making tech more fun, and creating intuitive, user-friendly experiences. I believe great design isn’t just about looks—it’s about making apps that feel effortless to use. Right now, I'm interning at BabyJourney, a parenting and pregnancy app, where I focus on building solutions that simplify life for parents.
+Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making tech more fun, and creating intuitive, user-friendly experiences. I believe great design isn’t just about looks—it’s about making apps that feel effortless to use. Right now, I'm interning at BabyJourney, a parenting and pregnancy app.
 
 ## 📝 Projects
 

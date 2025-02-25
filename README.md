@@ -9,7 +9,7 @@ Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making 
 
 ## 📝 Projects
 
-- **[Portfolio](https://alinde-ost-web.app)**
+- **[Portfolio](https://alinde-ost.web.app)**
 
 ## ⚖️ Skills
 

@@ -1,7 +1,7 @@
 # Alinde Öst, Fullstack Developer
 
 **🏠 Based in Örebro, Sweden.**
-**💻 Loves turning caffeine into code and ideas into cool apps. 🛠️ Playing around with React, React Native, TypeScript, Firebase, and Node.js to build things that (hopefully) make life easier..**
+**💻 Loves turning caffeine into code and ideas into cool apps. 🛠️ Playing around with React, React Native, TypeScript, Firebase, and Node.js and C# .NET to build things that (hopefully) make life easier..**
 
 ## ✨ About Me 
 

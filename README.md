@@ -1,11 +1,11 @@
 # Alinde Öst, Fullstack Developer
 
 **🏠 Based in Örebro, Sweden.**
-**💻 Loves turning caffeine into code and ideas into cool apps. 🛠️ Playing around with React, React Native, TypeScript, Firebase, and Node.js and C# .NET to build things that (hopefully) make life easier..**
+**💻 Loves turning caffeine into code and ideas into cool apps. 🛠️ Playing around with React, React Native, TypeScript, Firebase, and Node.js to build things that (hopefully) make life easier..**
 
 ## ✨ About Me 
 
-Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making tech more fun, and creating intuitive, user-friendly experiences. I believe great design isn’t just about looks—it’s about making apps that feel effortless to use. Right now, I'm interning at BabyJourney, a parenting and pregnancy app.
+Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making tech more fun, and creating intuitive, user-friendly experiences. I believe great design isn’t just about looks—it’s about making apps that feel effortless to use. 
 
 ## 📝 Projects
 
@@ -15,7 +15,7 @@ Hi! I'm Alinde, a fullstack developer who enjoys untangling code messes, making 
 
 **Frontend:** React, React Native, TypeScript, Styled Components, HTML, CSS.
 
-**Backend:** Node.js, Firebase, learning C#/.Net
+**Backend:** Node.js, Firebase,
 
 **Databases:** SQL, MongoDB, Firestore
 
